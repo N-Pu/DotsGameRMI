@@ -1,3 +1,4 @@
+![изображение](https://i.imgur.com/PPWsdaE.png)
 # Dots Game on console (with RMI)
 
 It's a "Dots" game where you draw lines betwin dots and get maximum score. 
@@ -12,7 +13,7 @@ There can be 2 players in. So let's start.
 
 ![изображение](https://user-images.githubusercontent.com/40484678/159502267-6b5654e4-83f4-4125-9381-268e13b4acff.png)
 
-                     It's field where you have to type X and Y coordinates to put a line betwin dots:
+                     It's field where you have to type X and Y coordinates to put a line between dots:
 
 ![изображение](https://i.imgur.com/TBdv0vY.png)
 
